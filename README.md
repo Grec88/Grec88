@@ -1,4 +1,4 @@
-# Hi, I'm [your name] 👋
+# Hi, I'm Aleksey Likhtinov 👋
 
 I'm a junior-frontend developer. I'm passionate about web development and creating interactive and beautiful websites.
 
