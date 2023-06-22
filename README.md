@@ -20,6 +20,7 @@ I'm a junior-frontend developer. I'm passionate about web development and creati
 
 Here you can see some of my projects that I made during my learning or for practice:
 
+- [paravina-rebuild](https://github.com/DevMentorship/paravina-rebuild)
 - [landing-of-a-travel-company](https://github.com/Grec88/landing-of-a-travel-company)
 - [Picture-shop-site](https://github.com/Grec88/Picture-shop-site)
 - [Promotion-site](https://github.com/Grec88/Promotion-site)
