@@ -1,6 +1,6 @@
 # Hi, I'm Aleksey Likhtinov 👋
 
-I'm a junior-frontend developer. I'm passionate about web development and creating interactive and beautiful websites.
+I'm a frontend developer. I'm passionate about web development and creating interactive and beautiful websites.
 
 ## Contact me
 
