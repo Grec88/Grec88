@@ -1,3 +1,10 @@
+# Hi, I'm Aleksey Likhtinov 👋
+
+I'm a junior-frontend developer. I'm passionate about web development and creating interactive and beautiful websites.
+
+## Contact me
+
+If you want to contact me, you can write me at Lihtinmann88@yandex.ru, write to me in telegram at @grec883.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Grec88&theme=dark&background=000000)](https://git.io/streak-stats)
 
